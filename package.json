@@ -1,0 +1,32 @@
+{
+  "name": "crawlerfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawl.js",
+  "dependencies": {
+    "caniuse-db": "^1.0.30000928",
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "csv-stringify": "^5.1.2",
+    "csv-write-stream": "^2.0.0",
+    "fs": "0.0.1-security",
+    "headless-chrome-crawler": "^1.8.0",
+    "node-fetch": "^2.3.0",
+    "puppeteer": "^1.11.0",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node modules/testError.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasz18/new_Crawl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobiasz18/new_Crawl/issues"
+  },
+  "homepage": "https://github.com/tobiasz18/new_Crawl#readme"
+}
